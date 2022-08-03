@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uyi
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently learning SQL, R and Python
 - 📫 uyi1001@gmail.com
 
 <!---
